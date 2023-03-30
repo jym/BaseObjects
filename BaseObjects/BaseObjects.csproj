@@ -6,7 +6,7 @@
 		<AssemblyName>Base.Objects</AssemblyName>
 		<ImplicitUsings>disabled</ImplicitUsings>		
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-		<Version>7.0.4.2</Version>
+		<Version>7.0.4.3</Version>
 		<PackageId>Base.Objects</PackageId>
 		<Authors>Test</Authors>
 		<Company>Test</Company>
